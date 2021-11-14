@@ -52,6 +52,6 @@ An Autoencoder model has been used for the purpose.
 
 ##### Loss Graph
 
-<img src="https://github.com/mahesh863/Image-Coloring-Autoencoders/blob/main/graph/loss.png" width="500px" >
+
 
  
