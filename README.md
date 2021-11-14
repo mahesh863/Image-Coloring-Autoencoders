@@ -78,3 +78,24 @@ The model was initially planned to tain for 50 epochs. But the model's validatio
  
 
 
+
+### Results
+
+The results could be way better if the model was trained with more data and more fine tunning would be done.
+
+##### Input
+
+<img  src= "https://github.com/mahesh863/Image-Coloring-Autoencoders/blob/main/images/input.png" width="500px" >
+
+
+
+
+##### Model Output
+
+<img  src= "https://github.com/mahesh863/Image-Coloring-Autoencoders/blob/main/images/pred.png" width="500px" >
+
+
+##### Acutal Output
+
+<img  src= "https://github.com/mahesh863/Image-Coloring-Autoencoders/blob/main/images/true.png" width="500px" >
+
