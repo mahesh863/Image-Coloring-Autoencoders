@@ -24,7 +24,7 @@ latent_dim =  512
 Optimizer : Adam
 Loss: MSE
 
-An Autoencoder model has been used for the purpose.
+An Autoencoder model has been used for this purpose.
 
 
 ##### Encoder
@@ -68,7 +68,7 @@ An Autoencoder model has been used for the purpose.
 
 ### Training
 
-The model was initially planned to tain for 50 epochs. But the model's validation loss was not improving much so the triaing was stopped after 24 iterations to prevent overfitting.
+The model was initially planned to train for 50 epochs. But the model's validation loss was not improving much so the training was stopped after 24 iterations to prevent overfitting.
 
 
 ##### Loss Graph
@@ -99,3 +99,10 @@ The results could be way better if the model was trained with more data and more
 
 <img  src= "https://github.com/mahesh863/Image-Coloring-Autoencoders/blob/main/images/true.png" width="500px" >
 
+
+
+
+### Conclusion
+
+
+More of hyperparameter optimization can be done to improve the. I will be doing it in the future.
